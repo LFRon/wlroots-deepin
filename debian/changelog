@@ -1,39 +1,8 @@
-wlroots (0.20.0-1~deepin0) experimental; urgency=medium
+wlroots (0.19.3-1) unstable; urgency=medium
 
   * New upstream release
 
- -- Guido Günther <agx@sigxcpu.org>  Thu, 26 Mar 2026 18:47:34 +0100
-
-wlroots (0.20.0~rc5-1) experimental; urgency=medium
-
-  * New upstream release candidate
-
- -- Guido Günther <agx@sigxcpu.org>  Sat, 21 Mar 2026 12:43:58 +0100
-
-wlroots (0.20.0~rc3-1) experimental; urgency=medium
-
-  * New upstream release candidate
-
- -- Guido Günther <agx@sigxcpu.org>  Mon, 02 Mar 2026 12:52:51 +0100
-
-wlroots (0.20.0~rc2-1) experimental; urgency=medium
-
-  [ Guido Günther ]
-  * New upstream release candidate
-
-  [ Diederik de Haas ]
-  * d/control: Update Build Dependencies for wlroots 0.20
-
- -- Guido Günther <agx@sigxcpu.org>  Fri, 13 Feb 2026 10:19:43 +0100
-
-wlroots (0.20.0~rc1-1) experimental; urgency=medium
-
-  * Upload to experimental
-  * New upstream release candidate
-  * [d567d8d] Update to API version to 0.20
-  * [628af01] Bump dependencies
-
- -- Guido Günther <agx@sigxcpu.org>  Mon, 02 Feb 2026 12:52:47 +0100
+ -- Guido Günther <agx@sigxcpu.org>  Fri, 20 Mar 2026 19:04:36 +0100
 
 wlroots (0.19.2-1) unstable; urgency=medium
 

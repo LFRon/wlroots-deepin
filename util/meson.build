@@ -6,7 +6,6 @@ wlr_files += files(
 	'global.c',
 	'log.c',
 	'matrix.c',
-	'mem.c',
 	'rect_union.c',
 	'region.c',
 	'set.c',
@@ -15,5 +14,4 @@ wlr_files += files(
 	'token.c',
 	'transform.c',
 	'utf8.c',
-	'version.c',
 )
