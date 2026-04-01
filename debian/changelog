@@ -1,6 +1,7 @@
-wlroots (0.19.3-1) unstable; urgency=medium
+wlroots (0.19.3-0deepin1) unstable; urgency=medium
 
   * New upstream release
+  * Merge deepin patches
 
  -- Guido Günther <agx@sigxcpu.org>  Fri, 20 Mar 2026 19:04:36 +0100
 
